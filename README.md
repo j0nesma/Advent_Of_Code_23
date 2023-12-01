@@ -1,8 +1,13 @@
 # Advent of Code with ChatGPT and Me
 
-How It Works
+Keeping my little nogging working while I am egg nogging
+
+## How It Works
+
+Using the [Advent of Code](https://adventofcode.com/2023/about) website to solve coding puzzles
 
 1. **Puzzle Solving**: Each day, I approach the puzzle first, brainstorming and coding initial ideas.
+
 2. **ChatGPT** I give ChatGPT the same questions and see if it successed after 3 attempts at corrections 
 
 ## Progress Tracker
