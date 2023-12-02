@@ -15,5 +15,5 @@ Using the [Advent of Code](https://adventofcode.com/2023/about) website to solve
 | Puzzle      | Matt  Part 1 | Matt Part 2 | ChatGPT Part 1 | ChatGPT Part 2 |
 |-------------|--------------|-------------|----------------|----------------|
 | [Trebuchet?!](https://adventofcode.com/2023/day/1) | ✔️            | ✔️           | ✔️              | ❌              |
-|             |              |             |                |                |
+| [Cube Conundrum](https://adventofcode.com/2023/day/2)            |✔️              | ✔️            | ❌               | ❌               |
 |             |              |             |                |                |
