@@ -1,10 +1,12 @@
 # Advent of Code with ChatGPT and Me
 
-Keeping my little nogging working while I am egg nogging
+🎄🦌Keeping my little nogging working while I am egg nogging🦌🎄
 
 ## How It Works
 
-Using the [Advent of Code](https://adventofcode.com/2023/about) website to solve coding puzzles
+Using the [Advent of Code](https://adventofcode.com/2023/about) website to solve coding puzzles.
+
+I will be solving using Javascript this year.
 
 1. **Puzzle Solving**: Each day, I approach the puzzle first, brainstorming and coding initial ideas.
 
