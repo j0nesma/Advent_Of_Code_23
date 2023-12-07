@@ -19,3 +19,4 @@ I will be solving using Javascript this year.
 | [Trebuchet?!](https://adventofcode.com/2023/day/1) | ✔️            | ✔️           | ✔️              | ❌              |
 | [Cube Conundrum](https://adventofcode.com/2023/day/2)            |✔️              | ✔️            | ❌               | ❌               |
 |  [Gear Ratios](https://adventofcode.com/2023/day/3)           |   ✔️           |  ❌           |   ❌             |    ❌            |
+|  [Scratchcards ](https://adventofcode.com/2023/day/4)           |   ✔️           |  ✔️           |   ❌             |    ❌            |
