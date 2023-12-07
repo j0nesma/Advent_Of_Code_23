@@ -21,8 +21,8 @@ I will be solving using Javascript this year.
 |  [Gear Ratios](https://adventofcode.com/2023/day/3)           |   ✔️           |  ❌           |   ❌             |    ❌            |
 |  [Scratchcards ](https://adventofcode.com/2023/day/4)           |   ✔️           |  ✔️           |   ❌             |    ❌            |
 |  [If You Give A Seed A Fertilizer ](https://adventofcode.com/2023/day/5)           |   ✔️           |  ❌           |   ❌             |    ❌            |
-|  [????](https://adventofcode.com/2023/day/6)            |              |             |                |                |
-|  [????](https://adventofcode.com/2023/day/7)            |              |             |                |                |
+|  [Wait For It](https://adventofcode.com/2023/day/6)            |        ✔️      |     ✔️        |                |                |
+|  [Camel Cards](https://adventofcode.com/2023/day/7)            |         ✔️     |        ❌     |                |                |
 |  [????](https://adventofcode.com/2023/day/8)            |              |             |                |                |
 |  [????](https://adventofcode.com/2023/day/9)            |              |             |                |                |
 |  [????](https://adventofcode.com/2023/day/10)           |              |             |                |                |
